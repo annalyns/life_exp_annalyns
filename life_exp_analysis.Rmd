@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Abstract
 
-Here, I re-examine the analysis of Oeppen and Vaupel (2002).
+Here, I re-examine the analysis of Oeppen and Vaupel (2002). The following code finds the highest life expectancy based on the sample data in gapminder_unfiltered.
 
 # Life Expectancy Analysis
 ```{r 5.5.1 Exercise}
